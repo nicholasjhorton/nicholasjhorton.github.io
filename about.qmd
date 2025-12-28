@@ -1,0 +1,9 @@
+---
+title: "About Nick"
+---
+
+About this site
+
+```{r}
+1 + 1
+```
