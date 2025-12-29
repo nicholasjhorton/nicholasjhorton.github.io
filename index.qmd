@@ -5,7 +5,7 @@ format:
     theme: pulse
 ---
 
-This is my Quarto website.
+This is not just another Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
