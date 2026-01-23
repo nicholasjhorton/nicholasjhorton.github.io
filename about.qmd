@@ -2,12 +2,10 @@
 title: "About Nick"
 ---
 
-```{r}
-#| label: fig-02
-#| out.width: "50%"
-#| echo: false
-knitr::include_graphics("images/Horton-Nicholas-small.jpg")
-```
+
+::: {fig-align="center"}
+![](images/Horton-Nicholas-small.jpg){width="50%"}
+:::
 
 
 ### Current Position
