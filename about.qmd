@@ -95,4 +95,4 @@ Beitzel Professor of Technology and Society (Statistics and Data Science), Depar
 
 
 ::: {fig-align="center"}
-![](images/youth1.jpg){width="30%"}
+![](images/youth1.jpg){width="40%"}
