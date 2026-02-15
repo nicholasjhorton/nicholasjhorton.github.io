@@ -1,5 +1,8 @@
 ---
-title: "About Nick"
+title: "More About Nick"
+format: 
+  html:
+    theme: pulse
 ---
 
 
@@ -61,7 +64,7 @@ Beitzel Professor of Technology and Society (Statistics and Data Science), Depar
 - Waller Distinguished Teaching Award for excellence in teaching, innovation,
 					scholarship, and creative efforts in education, and impact beyond their
 					institution, American Statistical Association
-- Peter Holmes Prize (Award for paper published in 2023 in Teaching Statistics 
+- Peter Holmes Prize (Award for paper published in 2023 in *Teaching Statistics* 
 					which best demonstrates excellence in motivating practical classroom
 					activity) (2023)
 - Mosteller Statistician of the Year Award and Lecture, Boston Chapter of the
@@ -79,8 +82,8 @@ Beitzel Professor of Technology and Society (Statistics and Data Science), Depar
 					Mathematical Association of America (2015)
 - William D. Warde Mu Sigma Rho Statistics Education Award (2014)
 - Fellow of the American Statistical Association (2012)
-- Journal of Statistics and Data Science Education (formerly Journal of Statistics
-					Education) best paper award for 2010 
+- *Journal of Statistics and Data Science Education*  (formerly Journal of Statistics
+					Education) Jackie Dietz Best Paper Award for 2010 
 - Distinguished service award, Boston Chapter of the American Statistical
 					 Association (2011)
 - MassBike/Pioneer Valley Bicycle Advocate of the Year for  efforts to
