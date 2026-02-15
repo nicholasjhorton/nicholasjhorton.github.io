@@ -94,3 +94,5 @@ Beitzel Professor of Technology and Society (Statistics and Data Science), Depar
 - Teaching awards from Boston University, Smith College, and the Boston Chapter of the ASA
 
 
+::: {fig-align="center"}
+![](images/youth1.jpg){width="30%"}
