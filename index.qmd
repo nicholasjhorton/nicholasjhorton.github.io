@@ -68,3 +68,95 @@ I have had the privilege of serving the ASA in multiple leadership roles, includ
 As President, I would focus on strengthening the Association, ensuring financial stability, and advancing the ASA’s mission to promote the practice and profession of statistics for the public good.
 
 
+::: {fig-align="center"}
+![](images/Horton-Nicholas-small.jpg){width="50%"}
+:::
+
+
+### More About Nick
+
+#### Current Position
+
+Beitzel Professor of Technology and Society (Statistics and Data Science), Department of Statistics, Amherst College (since 2013)
+
+#### Former Positions/Employers
+
+- Asst/Assoc/Professor of Statistics, Smith College (2003-2013)
+- Bureau of Labor Statistics (2012-2013)
+- University of Auckland, New Zealand (2007-2008)
+- Assistant Professor of Biostatistics, Boston University (2000-2003)
+
+#### Degrees
+
+- ScD in Biostatistics, Harvard TH Chan School of Public Health (1999)
+- AB in Psychology, Harvard University (1987)
+
+#### Publications
+
+(selected from 210 publications and books)
+
+- *American Journal of Public Health*: [2003](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.93.2.299)
+- *The American Statistician*: [2001](https://www.tandfonline.com/doi/abs/10.1198/000313001317098266), [2003](https://www.tandfonline.com/doi/abs/10.1198/0003130032314), [2004](https://www.tandfonline.com/doi/abs/10.1198/000313004X5572), [2007](https://www.tandfonline.com/doi/abs/10.1198/000313007X172556), [2013](https://www.tandfonline.com/doi/full/10.1080/00031305.2013.849207), [2015a](https://www.tandfonline.com/doi/full/10.1080/00031305.2015.1032435), [2015b](https://www.tandfonline.com/doi/full/10.1080/00031305.2015.1094283), [2018](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1356375), [2019](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1305294)
+- *Annals of Applied Statistics*: [2014](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-8/issue-2/Adjusting-models-of-ordered-multinomial-outcomes-for-nonignorable-nonresponse-in/10.1214/14-AOAS714.full)
+- *Biometrics*: [2001](https://academic.oup.com/biometrics/article-abstract/57/1/34/7275949)
+- *Harvard Data Science Review*: [2021](https://hdsr.mitpress.mit.edu/pub/nvflcexe/release/2), [2023a](https://hdsr.mitpress.mit.edu/pub/k4jt0uu0/release/1), [2023b](https://hdsr.mitpress.mit.edu/pub/8wsiqh1c/release/4)
+- *Journal of Statistics and Data Science Education*: [2010](https://www.tandfonline.com/doi/abs/10.1080/10691898.2010.11889479) (best paper awardee), [2015](https://www.tandfonline.com/doi/abs/10.1080/10691898.2015.11889735), [2018](https://www.tandfonline.com/doi/full/10.1080/10691898.2018.1541653), [2021a](https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1848485), [2021b](https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1862609), [2021c](https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1870416), [2022a](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2041325), [2022b](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2097563), [2022c](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2141001), [2023](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2178778), [2024](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2364737)
+- *New England Journal of Medicine*: [2005](https://www.nejm.org/doi/full/10.1056/NEJM200511033531823)
+- *Statistics in Medicine*: [1999](https://onlinelibrary.wiley.com/doi/10.1002/%28SICI%291097-0258%2819990130%2918%3A2%3C213%3A%3AAID-SIM999%3E3.0.CO%3B2-E), [2004](https://onlinelibrary.wiley.com/doi/10.1002/sim.1879), [2006](https://onlinelibrary.wiley.com/doi/10.1002/sim.2593), [2008](https://onlinelibrary.wiley.com/doi/10.1002/sim.3324), [2010](https://onlinelibrary.wiley.com/doi/10.1002/sim.3872), [2023](https://onlinelibrary.wiley.com/doi/10.1002/sim.9664)
+- Co-author of open access [*Modern Data Science with R*](https://mdsr-book.github.io) (2e)
+- Co-author of [*SAS and R: Data Management, Statistical Analysis, and Graphics*](https://nhorton.people.amherst.edu/sasr2/) (2e)
+- Co-author of [*Using R for Data Management, Statistical Analysis, and Graphics*](https://nhorton.people.amherst.edu/r2/) (2e)
+
+[Link](https://scholar.google.com/citations?user=z9axhX8AAAAJ&hl=en) to Google Scholar page
+
+#### Activities
+
+- Program Chair, [Electronic Conference on Teaching Statistics](https://www.causeweb.org/cause/ecots/ecots26) (2026)
+- Chair, [National Academies (NASEM) K-12 Data and Computing Competencies Consensus Study](https://www.nationalacademies.org/projects/DBASSE-BOSE-23-04) (2024-2026)
+- Vice-President and member of the Board of Directors, American Statistical Association (2022-2024), Council of Chapters representative to the Board of Directors, American Statistical Association (2009-2011)
+- Editor, ASA [Journal of Statistics and Data Science Education](https://www.tandfonline.com/journals/ujse21/about-this-journal#abstracting-and-indexing) (2022-2024)
+- Co-chair of NASEM Committee on Applied and Theoretical Statistics (2020-2023)
+- Chair, [Committee of Presidents of Statistical Societies (COPSS)](https://copss.org) (2016-2018)
+- Chair, [ASA Presidential Initiative Workgroup to Revise Guidelines for Undergraduate Academic Programs in Statistics](https://www.amstat.org/education/curriculum-guidelines-for-undergraduate-programs-in-statistical-science-) (2013-2014)
+- Chair, ASA/National Council of Teachers of Mathematics Joint Committee on K-12 Curriculum in Statistics and Probability
+- ASA Section Chair (Statistics and Data Science Education), Secretary/Treasurer (Statistical Learning and Data Science), Program Chair (Mental Health Statistics), Council of Sections Representative (Statistical Computing)
+- ASA Chapter Rep (Boston Chapter), Board representative to the Council of Chapters, Vice Chair of the Council of Chapters Governing Board 
+
+#### Awards
+
+- Fellow of the Institute of Mathematical Statistics (IMS) (2025)
+- Waller Distinguished Teaching Award for excellence in teaching, innovation,
+					scholarship, and creative efforts in education, and impact beyond their
+					institution, American Statistical Association
+- Peter Holmes Prize (Award for paper published in 2023 in *Teaching Statistics* 
+					which best demonstrates excellence in motivating practical classroom
+					activity) (2023)
+- Mosteller Statistician of the Year Award and Lecture, Boston Chapter of the
+					American Statistical Association (2023)
+- Robert Tinker Fellow, Concord Consortium (2020)
+- Co-recipient (Five Colleges and Mass Mutual) of the American Statistical
+					Association Statistical Partnerships Among Academe, Industry, and
+					Government (SPAIG) Award (2019)
+- Fellow of the American Association for the Advancement of Science (AAAS) (2018)
+- Elected Member of the International Statistical Institute (ISI) (2017)
+- Founders Award, American Statistical Association (2017)
+- Lagakos Distinguished Alumni Award and Lecture, Harvard University (2017)
+- David Pickard Award and Lecture, Department of Statistics, Harvard University (2016)
+- Robert V. Hogg Award for Excellence in Teaching Introductory Statistics,
+					Mathematical Association of America (2015)
+- William D. Warde Mu Sigma Rho Statistics Education Award (2014)
+- Fellow of the American Statistical Association (2012)
+- *Journal of Statistics and Data Science Education*  (formerly Journal of Statistics
+					Education) Jackie Dietz Best Paper Award for 2010 
+- Distinguished service award, Boston Chapter of the American Statistical
+					 Association (2011)
+- MassBike/Pioneer Valley Bicycle Advocate of the Year for  efforts to
+					improve safety and access for bicyclists in Massachusetts (2010)
+- Waller Education Award for excellence and innovation in the instruction of 
+					elementary statistics at the undergraduate level, American Statistical
+					Association (2009)
+- Teaching awards from Boston University, Smith College, and the Boston Chapter of the ASA
+
+
+::: {fig-align="center"}
+![](images/youth1.jpg){width="40%"}
