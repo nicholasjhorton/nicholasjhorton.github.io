@@ -13,7 +13,7 @@ The American Statistical Association serves members in a world dependent on data
 Statistics plays a critical role in science, policy, business, and public life.
 The growing role of data science and the rapid dissemination of sophisticated AI tools and models are both threats and opportunities for us as a profession.
 
-As President, I would work to strengthen the ASA as a **visible, influential, and inclusive** professional home for statisticians, data scientists, analysts, and others across academia, industry, and government.
+As President, I will work to strengthen the ASA as a **visible, influential, and inclusive** professional home for statisticians, data scientists, analysts, and others across academia, industry, and government.
 
 ### Improving Statistics and Data Science Education
 
@@ -81,7 +81,7 @@ By supporting statisticians at every career stage, strengthening cross-sector co
 ### Why I Am Running for President
 
 I have had the privilege of serving the ASA in multiple leadership roles where I worked to build consensus across our diverse membership.
-As President, I would focus on **strengthening the Association, ensuring financial stability, and advancing the ASA’s mission** to promote the practice and profession of statistics for the public good.
+As President, I will focus on **strengthening the Association, ensuring financial stability, and advancing the ASA’s mission** to promote the practice and profession of statistics for the public good.
 
 
 ::: {fig-align="center"}
