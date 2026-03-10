@@ -12,12 +12,13 @@ format:
 The American Statistical Association serves members in a world dependent on data.
 Statistics plays a critical role in science, policy, business, and public life.
 The growing role of data science and the rapid dissemination of sophisticated AI tools and models are both threats and opportunities for us as a profession.
-As President, I would work to strengthen the ASA as a **visible, influential, and inclusive** professional home for statisticians, data scientists, and analysts across academia, industry, and government.
+
+As President, I would work to strengthen the ASA as a **visible, influential, and inclusive** professional home for statisticians, data scientists, analysts, and others across academia, industry, and government.
 
 ### Improving Statistics and Data Science Education
 
 Education is central to the vitality of our discipline and is at the core of my work as a statistician.
-I have committed much of my career to strengthening statistics and data science education, most recently chairing the recent National Academies consensus study on K-12 data and computing competencies, serving as editor of the ASA's open-access *Journal of Statistics and Data Science Education*, and leading the ASA's efforts to revise the "Guidelines for Undergraduate Academic Programs in Statistics"
+I have committed much of my career to strengthening statistics and data science education, most recently chairing the recent [National Academies consensus study on K-12 data and computing competencies](https://www.nationalacademies.org/projects/DBASSE-BOSE-23-04), serving as editor of the ASA's open-access [*Journal of Statistics and Data Science Education*](https://www.tandfonline.com/journals/ujse21/about-this-journal), and leading the ASA's efforts to revise the ["Guidelines for Undergraduate Academic Programs in Statistics"](https://www.amstat.org/education/curriculum-guidelines-for-undergraduate-programs-in-statistical-science-).
 
 We need to double down on these and similar efforts  to ensure that statistics remains a **vibrant and attractive** choice for the next generation of students.
 And we need to ensure that statisticians in industry and government have access to high-quality education and training opportunities to keep pace with the rapidly evolving field.
@@ -28,10 +29,11 @@ The next generations of statisticians and data scientists must be responsible st
 To make this happen, I would:
 
 - Support and expand the ASA's K-12 education efforts, including the development of high-quality curricular materials and teacher training.
-- Promulgate resources such as the GAISE report to further integrate computing, simulation, and real data into statistics courses from day one.
+- Promulgate resources such as the [GAISE reports](https://www.amstat.org/education/guidelines-for-assessment-and-instruction-in-statistics-education-(gaise)-reports) to further integrate computing, simulation, and real data into statistics courses from day one.
 - Support the increased use of active learning, inclusive pedagogy, and high impact practices in statistics and data science classrooms.
 - Expand efforts to support statistics and data science education at the undergraduate level and graduate level, through workshops, mentoring programs, and support for early-career researchers.
 - Develop guidance on responsible use of AI tools in statistics and data science classrooms.
+- Improve professional development opportunities for educators, particularly those in industry and government to help them keep pace with new methods and rapid developments of AI.
 - Convene a group to develop modules on ethics, algorithmic fairness, bias, and responsible AI for integration into statistics and data science courses.
 
 Education is central to the vitality of our discipline.
@@ -40,11 +42,12 @@ I have seen firsthand how efforts to modernize our curriculum, support educators
 ### Promoting the Practice and Profession of Statistics
 
 My career and biostatistical research, collaborations, and efforts work to ensure that science is on a solid statistical foundation.
-Through my two terms on the ASA Board of Directors and other leadership roles, I have worked to promote the practice and profession of statistics.
+Through my two terms on the ASA Board of Directors and other leadership roles, I have worked to **promote the practice and profession of statistics**.
+
 We must continue to communicate our value to society and elevate the voice of statisticians, be they in government, industry, or academia in public discourse.
 At the same time, we must foster excellence in statistical methods and practice, uphold strong ethical standards, and engage thoughtfully with rapid advances in computing and AI.
-
 The ASA’s public policy work is an important part of this effort, and I would work to expand our impact in this area.
+
 As President, I would:
 
 - Launch an ASA rapid-response panel of expert statisticians to comment on important public issues.
@@ -121,6 +124,8 @@ Beitzel Professor of Technology and Society (Statistics and Data Science), Depar
 - Co-author of [*Using R for Data Management, Statistical Analysis, and Graphics*](https://nhorton.people.amherst.edu/r2/) (2e)
 
 [Link](https://scholar.google.com/citations?user=z9axhX8AAAAJ&hl=en) to Google Scholar page
+
+[Link](orcid.org/0000-0003-3332-4311) to ORCID page
 
 #### Activities
 
