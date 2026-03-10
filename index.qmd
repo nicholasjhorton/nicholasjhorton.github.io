@@ -20,13 +20,13 @@ As President, I would work to strengthen the ASA as a **visible, influential, an
 Education is central to the vitality of our discipline and is at the core of my work as a statistician.
 I have committed much of my career to strengthening statistics and data science education, most recently chairing the recent [National Academies consensus study on K-12 data and computing competencies](https://www.nationalacademies.org/projects/DBASSE-BOSE-23-04), serving as editor of the ASA's open-access [*Journal of Statistics and Data Science Education*](https://www.tandfonline.com/journals/ujse21/about-this-journal), and leading the ASA's efforts to revise the ["Guidelines for Undergraduate Academic Programs in Statistics"](https://www.amstat.org/education/curriculum-guidelines-for-undergraduate-programs-in-statistical-science-).
 
-We need to double down on these and similar efforts  to ensure that statistics remains a **vibrant and attractive** choice for the next generation of students.
-And we need to ensure that statisticians in industry and government have access to high-quality education and training opportunities to keep pace with the rapidly evolving field.
+We need to double down on these and similar efforts to ensure that statistics remains a **vibrant and attractive** choice for the next generation of students.
+And we need to ensure that statisticians in industry and government have access to affordable and high-quality education and training opportunities to keep pace with the rapidly evolving field.
 
 But technical skill without an ethical foundation is not enough.
-The next generations of statisticians and data scientists must be responsible stewards of data.
+The next generations of statisticians and data scientists must also be responsible stewards of data.
 
-To make this happen, I would:
+To make this happen, I will:
 
 - Support and expand the ASA's K-12 education efforts, including the development of high-quality curricular materials and teacher training.
 - Promulgate resources such as the [GAISE reports](https://www.amstat.org/education/guidelines-for-assessment-and-instruction-in-statistics-education-(gaise)-reports) to further integrate computing, simulation, and real data into statistics courses from day one.
@@ -44,17 +44,17 @@ I have seen firsthand how efforts to modernize our curriculum, support educators
 My career in biostatistical research, collaborative biomedical research, and related efforts help to ensure that science is on a solid statistical foundation.
 Through my two terms on the ASA Board of Directors and other leadership roles, I have worked to **promote the practice and profession of statistics**.
 
-We must continue to communicate our value to society and elevate the voice of statisticians, be they in government, industry, or academia in public discourse.
-At the same time, we must foster excellence in statistical methods and practice, uphold strong ethical standards, and engage thoughtfully with rapid advances in computing and AI.
+We must continue to communicate our value to society and elevate the voice of statisticians, be they in government, industry, or academia and engage in public discourse.
+At the same time, we must foster excellence in statistical methods and practice, uphold strong ethical standards, and respond thoughtfully to the rapid advances we are seeing in computing and AI.
 The ASA’s public policy work is an important part of this effort, and I would work to expand our impact in this area.
 
-As President, I would:
+As President, I will:
 
 - Launch an ASA rapid-response panel of expert statisticians to comment on important public issues.
-- Expand the work of the ASA's Caucus on Industry Representatives to promote the role of statisticians in industry and to foster more connections and interplay between industry and academia.
+- Expand the work of the ASA's Caucus of Industry Representatives to promote the role of statisticians in industry and to foster more connections and interplay between industry and academia.
 - Build on our existing media training opportunities to help prepare the next generation of statisticians to engage with the media and public.
 - Develop a "Statistics in the News" initiative to highlight the role of statistics in current events and public discourse and to translate from research to accessible explanations.
-- Host cross-disciplinary forums on AI to address algorithmic accountability, fairness, and responsible AI use.
+- Host forums on AI to address algorithmic accountability, fairness, and responsible AI use.
 
 
 
@@ -65,9 +65,9 @@ Through my work as chair of the ASA's Membership Council, as Vice-Chair of the C
 
 The ASA supports statisticians not just at one moment, but across an entire professional lifetime.
 With diverse and evolving career paths, we need to support statisticians at all stages of their careers, communicate the value of membership and engagement, and expand opportunities for collaboration, service, and professional connection.
-Through my work, I have repeatedly seen firsthand how attracting, engaging, and retaining the next generation of members is essential to our future.
+Through my work, I have repeatedly seen how attracting, engaging, and retaining the next generation of members is essential to our future.
 
-To support this important work, I would:
+I will:
 
 - Work to expand structured mentoring networks (from student throughout senior career levels).
 - Identify new ways for members to "UpSkill" to help them fill gaps, adapt to new roles, and keep pace with our rapidly evolving field. 
